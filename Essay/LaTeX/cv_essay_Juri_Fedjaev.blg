@@ -1,0 +1,15 @@
+[0] Config.pm:327> INFO - This is Biber 2.2
+[0] Config.pm:330> INFO - Logfile is 'cv_essay_Juri_Fedjaev.blg'
+[94] biber-darwin:286> INFO - === Di Mai 24, 2016, 12:42:37
+[95] Biber.pm:334> INFO - Reading 'cv_essay_Juri_Fedjaev.bcf'
+[230] Biber.pm:677> INFO - Found 6 citekeys in bib section 0
+[259] Biber.pm:3054> INFO - Processing section 0
+[288] Biber.pm:3193> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[299] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[300] bibtex.pm:935> INFO - Found BibTeX data source 'literature.bib'
+[421] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[421] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[421] Biber.pm:2931> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
+[421] Biber.pm:2935> INFO - No sort tailoring available for locale 'en-US'
+[436] bbl.pm:505> INFO - Writing 'cv_essay_Juri_Fedjaev.bbl' with encoding 'ascii'
+[439] bbl.pm:596> INFO - Output to cv_essay_Juri_Fedjaev.bbl

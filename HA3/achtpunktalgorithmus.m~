@@ -1,0 +1,8 @@
+function [EF] = achtpunktalgorithmus(Korrespondenzen,K)
+% Diese Funktion berechnet die Essentielle Matrix oder Fundamentalmatrix
+% mittels 8-Punkt-Algorithmus, je nachdem, ob die Kalibrierungsmatrix 'K'
+% vorliegt oder nicht
+if (isempty(K))
+    
+end
+end

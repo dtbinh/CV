@@ -1,0 +1,142 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{awad2016image}{book}{}
+      \name{author}{2}{}{%
+        {{hash=df25bfef0fc1e1984bb9b8d604fd570d}{Awad}{A\bibinitperiod}{Ali\bibnamedelima Ismail}{A\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=9806239e5a4ff26eb47a6b160c8faffd}{Hassaballah}{H\bibinitperiod}{Mahmoud}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{118c50fd56e3aa3cc1f387fd39599a60}
+      \strng{fullhash}{118c50fd56e3aa3cc1f387fd39599a60}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Image Feature Detectors and Descriptors: Foundations and Applications}
+      \field{volume}{630}
+      \field{year}{2016}
+    \endentry
+    \entry{bay2008speeded}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a06a24a184d39c3aa9a7718cd9a5868d}{Bay}{B\bibinitperiod}{Herbert}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=3930ab1f2439c0d8503b32a7814fb81a}{Ess}{E\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=1fffde1e018446dc52c3da9c6e26ec11}{Tuytelaars}{T\bibinitperiod}{Tinne}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=97097efa079bb7f45db94404bf6cbfa0}{Van\bibnamedelima Gool}{V\bibinitperiod\bibinitdelim G\bibinitperiod}{Luc}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{afcf849adae780548ff56e7094a304c6}
+      \strng{fullhash}{40811c7b881583e46da79a56ded96f7b}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer vision and image understanding}
+      \field{number}{3}
+      \field{title}{Speeded-up robust features (SURF)}
+      \field{volume}{110}
+      \field{year}{2008}
+      \field{pages}{346\bibrangedash 359}
+      \range{pages}{14}
+    \endentry
+    \entry{evans2009notes}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7d9a5e9104e5a08c23e893b0fc6baf5a}{Evans}{E\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7d9a5e9104e5a08c23e893b0fc6baf5a}
+      \strng{fullhash}{7d9a5e9104e5a08c23e893b0fc6baf5a}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{University of Bristol, Tech. Rep. CSTR-09-001, January}
+      \field{title}{Notes on the opensurf library}
+      \field{year}{2009}
+    \endentry
+    \entry{juan2009comparison}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8886f073cdad4d0f162fcb9ce6d3c817}{Juan}{J\bibinitperiod}{Luo}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=09b5483b8a08b1a87d5f179bf79d6eba}{Gwun}{G\bibinitperiod}{Oubong}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e4a23254ddd8438678e48a9a993397cb}
+      \strng{fullhash}{e4a23254ddd8438678e48a9a993397cb}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Image Processing (IJIP)}
+      \field{number}{4}
+      \field{title}{A comparison of sift, pca-sift and surf}
+      \field{volume}{3}
+      \field{year}{2009}
+      \field{pages}{143\bibrangedash 152}
+      \range{pages}{10}
+    \endentry
+    \entry{khan2011sift}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a3d16301747deb68226f8683a27c5a42}{Khan}{K\bibinitperiod}{Nabeel\bibnamedelima Younus}{N\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=5df344217170912ca2602b20882a2e50}{McCane}{M\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6e3c2aa4468db9bf0b73675109779211}{Wyvill}{W\bibinitperiod}{Geoff}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{30e61c73914bc2c85e86945fc0a22cb0}
+      \strng{fullhash}{30e61c73914bc2c85e86945fc0a22cb0}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Digital Image Computing Techniques and Applications (DICTA), 2011 International Conference on}
+      \field{title}{SIFT and SURF performance evaluation against various image deformations on benchmark dataset}
+      \field{year}{2011}
+      \field{pages}{501\bibrangedash 506}
+      \range{pages}{6}
+    \endentry
+    \entry{lowe2004distinctive}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1b5682cb7575786fbfd93e7adeb1789d}{Lowe}{L\bibinitperiod}{David\bibnamedelima G}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \strng{fullhash}{1b5682cb7575786fbfd93e7adeb1789d}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of computer vision}
+      \field{number}{2}
+      \field{title}{Distinctive image features from scale-invariant keypoints}
+      \field{volume}{60}
+      \field{year}{2004}
+      \field{pages}{91\bibrangedash 110}
+      \range{pages}{20}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
